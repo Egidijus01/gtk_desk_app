@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Example
+Icon=exampleapp
+StartupNotify=true
+Exec=/home/egidijus/Public/C_lang/deskt_app
